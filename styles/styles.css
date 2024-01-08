@@ -170,5 +170,89 @@ border: none;
 /* section-three */
 
 .section-three {
-    
+    height: 250px;
+    width: 900px;
+    border: 1px solid red;
+    border: none;
+    margin: 30px 120px 20px 180px;
+    background:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);;
 }
+
+.section-three> .sec {
+    height: 300px;
+    width: 900px;
+
+    text-align: center;
+font-family: Inter;
+font-size: 25px;
+font-style: normal;
+font-weight: 600;
+line-height: 35px; /* 175% */
+text-transform: capitalize;
+border: 1px solid red;
+}
+
+.section-three> .trhee-title, .trhee-title-mid, .trhee-title-lst {
+    font-size: 25px;
+    font-family: Inter;
+    text-transform: capitalize;
+}
+
+.trhee-title{
+    margin-bottom: 0;
+}
+.trhee-title-mid{
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+.trhee-title-lst{
+    margin-top: 5px;
+}
+span {
+    color: #F00;
+}
+
+.section-three > .trhee-title{
+    padding-top: 30px;
+    text-align: center;
+    margin-bottom: 0;
+    font-size: 16px;
+}
+
+.section-three > .trhee-title-mid{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-size: 16px;
+}
+
+.section-three > .trhee-title-lst{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-size: 16px;
+}
+
+.sec-three-btn {
+    margin-left: 412px;
+    margin-top: 30px;
+    color: #FFF;
+    background-color: #F00;
+    border: 1px solid black;
+    border: none;
+    height: 25px;
+    width: 80px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-family: Inter;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
