@@ -696,3 +696,53 @@ line-height: normal;
 
 
 /* finally done 1st assignment */
+
+
+/* hover practice */
+
+.col-one-six:hover .fst {
+    transform: scale(2,2);
+    -webkit-transform: scale(2,2);
+    -moz-transform: scale(2,2);
+    -ms-transform: scale(2,2);
+    -o-transform: scale(2,2);
+}
+.col-one-six:hover .scnd {
+    transform: scale(2,2);
+    -webkit-transform: scale(2,2);
+    -moz-transform: scale(2,2);
+    -ms-transform: scale(2,2);
+    -o-transform: scale(2,2);
+}
+
+.col-two-six:hover .thrd  {
+    transform: scale(2,2);
+    -webkit-transform: scale(2,2);
+    -moz-transform: scale(2,2);
+    -ms-transform: scale(2,2);
+    -o-transform: scale(2,2);
+}
+
+.col-two-six:hover .frth {
+    transform: (2,2);
+    -webkit-transform: (2,2);
+    -moz-transform: (2,2);
+    -ms-transform: (2,2);
+    -o-transform: (2,2);
+}
+
+
+.col-three-six:hover .fth {
+    transform: scale(2,2);
+    -webkit-transform: scale(2,2);
+    -moz-transform: scale(2,2);
+    -ms-transform: scale(2,2);
+    -o-transform: scale(2,2);
+}
+.six-section:hover #rear {
+    transform: scale(2,2);
+    -webkit-transform: scale(2,2);
+    -moz-transform: scale(2,2);
+    -ms-transform: scale(2,2);
+    -o-transform: scale(2,2);
+}
