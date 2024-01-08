@@ -1,0 +1,97 @@
+/* header section */
+
+.header-section {
+    background-image: url('../files/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    height: 400px;
+    width: 900px;
+    border: 1px solid red;
+    margin: 30px 120px 20px 180px;
+    border: none;
+}
+
+.header-section > .title-header {
+    text-align: center;
+    padding-top: 100px;
+    color: #FFF;
+}
+
+.header-section .title-header h3 {
+    font-family: Merriweather;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+
+
+}
+
+.header-section .title-header .f-h2 {
+    font-family: Merriweather;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: 30px; /* 131.944% */
+margin-top: 0px;
+margin-bottom: 0px;
+padding-top: 15px;
+color: #FFF;
+
+}
+.header-section .title-header .s-h2 {
+    font-family: Merriweather;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px; /* 131.944% */
+    padding-top: 0px;
+    color: #FFF;
+}
+
+/* section first */
+
+.section-first .discount {
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 0;
+}
+
+.section-first .mid {
+    color: #F00;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 25px;
+    margin-bottom: 0;
+}
+
+.section-first .describe {
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 0;
+}
+
+.first-section-img {
+    height: 350px;
+    width: 600px;
+    margin-left: 370px;
+}
