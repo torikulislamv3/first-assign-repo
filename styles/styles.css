@@ -100,10 +100,22 @@ line-height: normal;
 margin-top: 0;
 }
 
+.section-first-tit{
+    height: 230px;
+    width: 900px;
+    border: 1px solid red;
+   border: none;
+    margin: 30px 120px 20px 180px;  
+    margin-bottom: 0;
+}
+
 .first-section-img {
     height: 350px;
     width: 600px;
     margin-left: 370px;
+    border: 1px solid yellow;
+    border: none;
+    margin: 7px 120px 20px 350px;
 }
 
 /* section second */
@@ -662,3 +674,4 @@ line-height: normal;
 
 
 
+/* finally done 1st assignment */
