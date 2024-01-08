@@ -583,10 +583,10 @@ border-top-right-radius: 15px;
 /* footer section */
 .footer-final {
     background: #070211;
-    height: 400px;
+    height: 380px;
     width: 900px;
     border: 1px solid red;
-    
+    border: none;
     margin: 30px 120px 20px 180px;
 }
 
@@ -599,7 +599,7 @@ border-top-right-radius: 15px;
 .footer-describe{
     color: #FFF;
 font-family: Inter;
-font-size: 10px;
+font-size: 12px;
 font-style: normal;
 font-weight: 500;
 line-height: 22px;
@@ -626,6 +626,38 @@ margin-right: 120px;
     margin-top: 30px;
     margin-left: 60px;
 
+}
+
+.step-two-footer {
+    text-align: center;
+    margin-top: 35px;
+}
+
+.hori-two {
+    width: 90%;
+    
+    background: rgba(255, 255, 255, 0.15);
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.lst-footer-unit {
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+font-family: Inter;
+font-size: 10px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.left {
+    margin-left: 60px;
+}
+
+.right {
+    margin-right: 30px;
 }
 
 
