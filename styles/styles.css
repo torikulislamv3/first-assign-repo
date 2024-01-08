@@ -1,7 +1,8 @@
 /* header section */
 
 .header-section {
-    background-image: url('../files/Banner\ Image.png');
+    background: linear-gradient(80deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
+url("../files/Banner\ Image.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 400px;
@@ -15,7 +16,7 @@
 
 .header-section > .title-header {
     text-align: center;
-    padding-top: 100px;
+    padding-top: 120px;
     color: #FFF;
     
     }
