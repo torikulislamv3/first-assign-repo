@@ -581,5 +581,52 @@ border-top-right-radius: 15px;
 
 
 /* footer section */
+.footer-final {
+    background: #070211;
+    height: 400px;
+    width: 900px;
+    border: 1px solid red;
+    
+    margin: 30px 120px 20px 180px;
+}
+
+.step-one-footer {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.footer-describe{
+    color: #FFF;
+font-family: Inter;
+font-size: 10px;
+font-style: normal;
+font-weight: 500;
+line-height: 22px;
+width: 200px;
+margin-top: 50px;
+margin-left: 60px;
+}
+
+.contact {
+    color: #FFF;
+font-family: Inter;
+font-size: 10px;
+font-style: normal;
+font-weight: 500;
+line-height: 10px; 
+margin-top: 50px;
+margin-right: 120px;
+}
+
+.hori-one {
+    width: 90%;
+    
+    background: rgba(255, 255, 255, 0.15);
+    margin-top: 30px;
+    margin-left: 60px;
+
+}
+
 
 
