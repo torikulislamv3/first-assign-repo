@@ -171,17 +171,18 @@ margin-top: 10px;
 
 .sec-section-button{
     color: #FFF;
-text-align: center;
-font-family: Inter;
-font-size: 10px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-text-transform: uppercase;
-background-color: transparent;
-outline: none;
-border: none;
-
+    text-align: center;
+    font-family: Inter;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    background-color: #F00;
+    border-radius: 5px;
 }
 
 .section-second > .col-one{
@@ -367,21 +368,58 @@ line-height: 25px;
 
 /* section five */
 .section-five {
-    height: 500px;
-    width: 900px;
+    height: 510px;
+    width: 750px;
     border: 1px solid red;
-    border: none; 
+    border: none;
     margin: 30px 120px 20px 180px;
-    /* background: url('../files/Rectangle\ 2.png'); */
-    background-repeat: no-repeat;
-    /* background-position: bottom; */
-    background-size: 900px 100px;
-    
+   
+}
 
-    background: url('../files/Rectangle\ 1.png');
+.first-img {
+    margin-top: 472px;
+    
+    background: transparent;
+}
+
+.box{
+    border: 1px solid black;
+    border: none;
+    width: 350px;
+    height: 280px;
+    margin-top: 45px;
+    margin-left: 40px;
+    background: url('../files/Rectangle\ 2.png');
     background-repeat: no-repeat;
-    background-size: 300px 300px;
-    background-position: right bottom;
+    background-size: 500px 100px;
+    background-position: bottom;
+    position: relative;
+}
+
+.bot-img {
+    height: 100px;
+    width: 750px;
+    border: 1px solid yellow;
+    border: none;
+    margin-top: 212px;
+    position: absolute;
+}
+
+.cot{
+    opacity: 0.9;
+    margin-left: 500px;
+    position: absolute;
+    
+}
+
+.mot {
+    height: 140px;
+    width: 140px;
+    border: 1px solid black;
+    border: none;
+    position: absolute;
+    margin-left: 430px;
+    margin-top: 50px;
 }
 
 .section-five> .fist-title {
@@ -432,28 +470,9 @@ line-height: 25px;
     bottom: 0;
 }
 
-.image-one{
-    margin-top: 130px;
-    margin-bottom: 0;
-    background-color: transparent;
-    margin-bottom: 0;
-}
 
-.image-two {
-    margin-top: -200px;
-
-}
-
-.image-three{
-    margin-bottom: 0;
-    margin-top: -200px;
-}
-
-.image-four{
-    margin-left: 500px;
    
-    
-}
+ 
 
 /* six section */
 
