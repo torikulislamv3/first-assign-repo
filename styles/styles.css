@@ -341,3 +341,94 @@ line-height: 25px;
     margin-top: 10px;
     padding: 20px;
 }
+
+
+/* section five */
+.section-five {
+    height: 500px;
+    width: 900px;
+    border: 1px solid red;
+    border: none; 
+    margin: 30px 120px 20px 180px;
+    /* background: url('../files/Rectangle\ 2.png'); */
+    background-repeat: no-repeat;
+    /* background-position: bottom; */
+    background-size: 900px 100px;
+    
+
+    background: url('../files/Rectangle\ 1.png');
+    background-repeat: no-repeat;
+    background-size: 300px 300px;
+    background-position: right bottom;
+}
+
+.section-five> .fist-title {
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-bottom: 0;
+}
+
+.section-five> .second-title{
+    color: #F00;
+margin-top: 7px;
+text-align: center;
+font-family: Merriweather;
+font-size: 45px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+margin-bottom: 0;
+}
+
+.five-section-describe-one, .five-section-describe-two, .five-section-describe-three {
+    color: rgba(7, 2, 17, 0.60);
+
+text-align: center;
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: 25px;
+}
+
+.five-section-describe-one{
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+.five-section-describe-two{
+    margin-top: 1px;
+    margin-bottom: 0;
+}
+
+.five-section-describe-three {
+    margin-top: 1px;
+    bottom: 0;
+}
+
+.image-one{
+    margin-top: 130px;
+    margin-bottom: 0;
+    background-color: transparent;
+    margin-bottom: 0;
+}
+
+.image-two {
+    margin-top: -200px;
+
+}
+
+.image-three{
+    margin-bottom: 0;
+    margin-top: -200px;
+}
+
+.image-four{
+    margin-left: 500px;
+   
+    
+}
