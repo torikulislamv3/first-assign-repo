@@ -37,7 +37,7 @@ line-height: normal;
 font-size: 40px;
 font-style: normal;
 font-weight: 700;
-line-height: 30px; /* 131.944% */
+line-height: 30px;
 margin-top: 0px;
 margin-bottom: 0px;
 padding-top: 15px;
@@ -49,20 +49,12 @@ color: #FFF;
     font-size: 40px;
     font-style: normal;
     font-weight: 700;
-    line-height: 30px; /* 131.944% */
+    line-height: 30px;
     padding-top: 0px;
     color: #FFF;
 }
 
 /* section first */
-
-/* .section-first{
-    background-color: #FFF;
-    height: 400px;
-    width: 900px;
-    border: 1px solid red;
-    margin: 30px 120px 20px 180px;
-} */
 
 .section-first .discount {
     color: #F00;
@@ -152,7 +144,7 @@ font-family: Merriweather;
 font-size: 45px;
 font-style: normal;
 font-weight: 900;
-line-height: 60px; /* 137.5% */
+line-height: 60px;
 letter-spacing: 7.04px;
 margin-bottom: 0;
 }
@@ -165,7 +157,7 @@ font-family: Inter;
 font-size: 12px;
 font-style: normal;
 font-weight: 400;
-line-height: 20px; /* 166.667% */
+line-height: 20px;
 margin-top: 10px;
 }
 
@@ -210,7 +202,7 @@ font-family: Inter;
 font-size: 25px;
 font-style: normal;
 font-weight: 600;
-line-height: 35px; /* 175% */
+line-height: 35px;
 text-transform: capitalize;
 border: 1px solid red;
 }
@@ -339,7 +331,7 @@ font-weight: 700;
 line-height: normal;
 margin-top: 50px;
 margin-bottom: 0;
-/* margin-left: 50px; */
+
 }
 
 .describe-four-two{
@@ -355,9 +347,7 @@ line-height: 25px;
 }
 
 .col-mid-four > img{
-   
     border: 10px solid red;
-    
     border-radius: 100%;
     height: 200px;
     width: 200px;
@@ -420,6 +410,7 @@ line-height: 25px;
     position: absolute;
     margin-left: 430px;
     margin-top: 50px;
+    z-index: 1;
 }
 
 .section-five> .fist-title {
@@ -512,7 +503,7 @@ font-family: Inter;
 font-size: 10px;
 font-style: normal;
 font-weight: 400;
-line-height: 10px; /* 160% */
+line-height: 10px;
 margin-top: 5px;
 margin-bottom: 0;
 }
@@ -746,3 +737,7 @@ line-height: normal;
     -ms-transform: scale(2,2);
     -o-transform: scale(2,2);
 }
+
+
+
+/* THE END */
